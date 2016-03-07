@@ -1,0 +1,24 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Gallery App</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="close">Close</string>
+    <string name="error_dialog_title">Error!</string>
+
+    <!-- Content Description for Row's Thumbnail -->
+    <string name="thumbnail_description">Thumbnail Description</string>
+
+    <!-- Recycler View -->
+    <string name="progress_dialog_message">Loading Images</string>
+    <string name="error_unexpected">Unexpected Error</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="tag_url">url</string>
+    <string name="tag_album_id">albumId</string>
+    <string name="tag_id">id</string>
+    <string name="tag_title">title</string>
+    <string name="tag_thumbnail">thumbnailUrl</string>
+    <string name="album_details">Album Id:</string>
+    <!-- Details View -->
+    <string name="image_description">Image Description</string>
+</resources>
